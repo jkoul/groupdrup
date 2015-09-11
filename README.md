@@ -63,7 +63,7 @@ See https://www.drupal.org/documentation/install/ for more detailed instructions
   ```
   mv drupal-x.x.x/* drupal-x.x.x/.htaccess /Applications/MAMP/htdocs/yourdrupaldir
   ```
-  where yourdrupaldir is whatever you want the directory to be called.
+  where yourdrupaldir is whatever you want the directory to be called and "drupal-x.x.x" should match the version of Drupal you just installed.
 
 
 5. Create Drupal database using MySQL
