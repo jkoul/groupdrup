@@ -14,7 +14,7 @@ Jeremy Koulish<p>
 
 <p>**Getting Started**</p>
 
-<p>A quick review of getting started websites led to the distinction between core and distribution installations.  Core installations involve a "steep learning curve" according to some web authors, whereas distributions come pre-configured for specific user needs.  Business front-end, community resource, and conference organizing are a few of the options.  Thinking we were about to set up a "manageable" site to serve via local computer, we went with the community resource "Drupal Commons", then chose to pursue a core-driven solution using the MAMP (Mac, Apache, MySQL, PHP) server stack.</p>
+<p>A quick review of getting started websites led to the distinction between core and distribution installations.  Core installations involve a "steep learning curve" according to some web authors, whereas distributions come pre-configured for specific user needs.  Business front-end, community resource, and conference organizing are a few of the options.  Thinking we were about to set up a "manageable" site to serve via local computer, we went with the community resource "Drupal Commons", then chose to pursue a core-driven solution using the MAMP (Mac, Apache, MySQL, PHP) server stack. Below is a detailed walkthrough of that process.</p>
 
 
 **Drupal Installation Instructions**<br />
