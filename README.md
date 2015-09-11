@@ -1,6 +1,6 @@
 # groupdrup
 9/11 Drupal Teach-Yourself Project
 
-**Project Participants**:
-Tom Beach /
+<p>**Project Participants**:</p>
+<p>Tom Beach </p>
 Jeremy Koulish
